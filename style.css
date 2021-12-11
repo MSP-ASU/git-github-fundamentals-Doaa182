@@ -1,0 +1,124 @@
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(217, 54%, 11%);
+}
+
+.card {
+    background-color: hsl(216, 50%, 16%);
+    width: 250px;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 150px 600px;
+}
+
+.equiImg {
+    border-radius: 10px;
+}
+
+.EquiPara {
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.EquiPara2 {
+    color: hsl(0, 0%, 100%);
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+.etherPara {
+    color: hsl(178, 100%, 50%);
+    display: inline-block;
+    margin-right: 60px
+}
+
+.clockPara {
+    color: hsl(215, 51%, 70%);
+    display: inline-block;
+}
+
+.hrColor {
+    border-color: hsl(215, 32%, 27%);
+    background-color: hsl(215, 32%, 27%);
+}
+
+.avatarImg {
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 50%;
+    margin: 10px;
+    display: inline-block;
+}
+
+.avatarPara {
+    color: hsl(0, 0%, 100%);
+    display: inline-block;
+    margin-bottom: 10px;
+    position: absolute;
+    font-size: 15px;
+    font-weight: lighter;
+}
+span {
+    font-weight: bold;
+}
+
+
+/*
+.attribution { 
+font-size: 11px;
+text-align: center; 
+}
+
+.attribution a {
+color: hsl(228, 45%, 44%); 
+}
+
+*/
+
+/* 
+.equiEye {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+
+
+.equiEyeImg {
+    width: 100%;
+    height: auto;
+}
+
+
+.viewIconDiv {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .3s ease;
+    background-color: red;
+}
+
+
+.equiEye :hover .viewIconDiv {
+    opacity: 1;
+}
+
+.viewIconLink {
+    color: white;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.eye:hover {
+    color: #eee;
+}*/
